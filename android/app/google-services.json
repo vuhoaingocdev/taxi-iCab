@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "576431221168",
+    "firebase_url": "https://taxiapp-b766e-default-rtdb.firebaseio.com",
+    "project_id": "taxiapp-b766e",
+    "storage_bucket": "taxiapp-b766e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576431221168:android:af7beb37e968a0e5be4e75",
+        "android_client_info": {
+          "package_name": "com.example.app_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0UEvJrPxVQT-n5dyNYTu982o-R4hgKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576431221168:android:c9aa62446ababc85be4e75",
+        "android_client_info": {
+          "package_name": "com.example.backup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0UEvJrPxVQT-n5dyNYTu982o-R4hgKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
